@@ -1,0 +1,1 @@
+# snyk-goof-pr-checks-cleanup-example
