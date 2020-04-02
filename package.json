@@ -1,0 +1,22 @@
+{
+  "name": "snyk-goof-pr-checks-cleanup-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohad2712/snyk-goof-pr-checks-cleanup-example.git"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ohad2712/snyk-goof-pr-checks-cleanup-example/issues"
+  },
+  "homepage": "https://github.com/ohad2712/snyk-goof-pr-checks-cleanup-example#readme"
+}
