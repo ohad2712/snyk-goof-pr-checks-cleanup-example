@@ -13,7 +13,7 @@
   "dependencies": {
     "lodash": "^4.17.15"
   },
-  "author": "",
+  "author": "Ohad",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ohad2712/snyk-goof-pr-checks-cleanup-example/issues"
